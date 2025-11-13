@@ -1,7 +1,7 @@
 # Arch Linux Installation Notes
 
 > [!NOTE]
-> This note is intended for personal reference and is not intended as a tutorial.
+> This note is intended for reference and is not intended as a tutorial.
 
 
 I used the Archinstall script included with the official ISO. I’ve done manual installations before, but Archinstall offered clarity and introduced concepts I previously ignored — like disk encryption and unified kernel images (UKI). While manual installation teaches you the fundamentals, Archinstall ties together components that the Arch Wiki spreads across multiple pages.
